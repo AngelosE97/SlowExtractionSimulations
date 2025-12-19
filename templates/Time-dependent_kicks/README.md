@@ -1,4 +1,4 @@
-# Dynamic Simulations
+# Time-dependent_kicks
 A collection of simulations introducing time-dependent elements.
 
 ## File Description

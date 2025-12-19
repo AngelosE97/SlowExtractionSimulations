@@ -1,4 +1,4 @@
-# Betatron Core Simulations
+# Betatron Core
 A collection of simulations on slow extraction using a Betatron Core to excite the beam.
 
 ## File Description

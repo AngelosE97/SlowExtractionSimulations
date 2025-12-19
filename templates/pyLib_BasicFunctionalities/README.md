@@ -1,4 +1,4 @@
-# pyLib Examples folder
+# pyLib Basic Functionalities
 Collection of examples applying the functions of pyLib studying trasnverse phase space, Steinbach diagrams and the Hardt condition.
 
 ## Present Examples

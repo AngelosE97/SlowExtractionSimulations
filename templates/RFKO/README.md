@@ -1,4 +1,4 @@
-# RFKO Simulations
+# RFKO
 A collection of simulations on slow extraction using RFKO. 
 
 ## File Description
